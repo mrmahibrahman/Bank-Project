@@ -1,0 +1,3 @@
+Jane Smith, 69713, $40.00
+Ted Murphy, 72354, $514.56
+Edward Demsey, 93757, $759.32
